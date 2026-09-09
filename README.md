@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,50:1a2a6c,100:b8860b&height=180&section=header&text=VIJAY%20BHUMIREDDY&fontSize=44&fontColor=ffffff" width="100%" />
 
-### AI & ML Enthusiast • Python Developer • PostgreSQL
-
 <br/>
 
 ### 🧠 Python &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Machine Learning
