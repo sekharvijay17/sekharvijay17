@@ -21,7 +21,6 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.Tech in AI & ML**, Kalasalingam University, TN — *Graduated 2026*
-- 🔬 Built a **Chest X-ray Disease Classification** pipeline using transfer learning (VGG16) — 🏆 **3rd Place, MedCode Quest – Euphoria'25** (150+ participants)
 - 💼 AI & ML Intern experience at **InLighnX Global Pvt. Ltd.** and **Skill Forge**
 - 📍 Based in Kakinada, Andhra Pradesh, India
 - ⚡ Fun fact: I like turning messy data into clean predictions
@@ -38,15 +37,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,100:b8860b&height=3&section=header" width="100%"/>
-
-### 🚀 Featured Project
-
-**🩻 Chest X-ray Disease Classification using Deep Learning**
-- Designed a deep learning pipeline classifying chest X-rays into multiple disease categories
-- Applied **transfer learning (VGG16)** with TensorFlow & Keras
-- Optimized with hyperparameter tuning + GPU training, evaluated via accuracy, F1-score, precision & recall
-- 🏆 Placed 3rd at **MedCode Quest – Euphoria'25**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,100:b8860b&height=3&section=header" width="100%"/
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,100:b8860b&height=3&section=header" width="100%"/>
 
