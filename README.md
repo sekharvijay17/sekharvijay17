@@ -37,8 +37,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,100:b8860b&height=3&section=header" width="100%"/
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,100:b8860b&height=3&section=header" width="100%"/>
 
 ### 📊 GitHub Stats
@@ -46,7 +44,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sekharvijay17&show_icons=true&theme=gotham&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sekharvijay17&theme=gotham&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=sekharvijay17&theme=gotham&hide_border=true" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekharvijay17&layout=compact&theme=gotham&hide_border=true" width="48%" />
 
