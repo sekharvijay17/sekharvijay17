@@ -48,7 +48,11 @@
 **AI / ML**
 
 <div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO%20%7C%20CNN-FF0000?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 **Databases**
@@ -63,6 +67,8 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
@@ -91,18 +97,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,100:b8860b&height=3&section=header" width="100%"/>
 
-### 🏅 Achievements & Certifications
+### 🎓 Certifications
+
+- ✅ **Machine Learning with Python** – SkillForge (Jun 2025)
+- ✅ **The Complete SQL Bootcamp: Go from Zero to Hero** – Udemy
+- ✅ **Python Bootcamp: From Zero to Hero** – Udemy
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,100:b8860b&height=3&section=header" width="100%"/>
+
+### 🏅 Achievements
 
 - 🥉 3rd Place – MedCode Quest (Euphoria'25)
-- ✅ Basic Python – GeeksforGeeks
-- ✅ Python Bootcamp: From Zero to Hero – Udemy
-- ✅ Machine Learning with Python – SkillForge (Jun 2025)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8860b,100:0a0e27&height=100&section=footer" width="100%"/>
 
 <div align="center">
 
-📫 Reach me at **vijaybhumireddy18@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/vijay-bhumireddy-71302131a) or [Instagram](https://instagram.com/vijay_l7)
+📫 Reach me at **vijaybhumireddy18@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/vijay-bhumireddy-71302131a) or [Instagram](https://instagram.com/vijay__l7)
 
 ⭐️ From [sekharvijay17](https://github.com/sekharvijay17)
 
