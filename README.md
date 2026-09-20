@@ -45,6 +45,12 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
+**AI / ML**
+
+<div align="center">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</div>
+
 **Databases**
 
 <div align="center">
