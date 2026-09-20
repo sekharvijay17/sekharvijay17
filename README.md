@@ -105,13 +105,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,100:b8860b&height=3&section=header" width="100%"/>
 
-### 🏅 Achievements
-
-- 🥉 3rd Place – MedCode Quest (Euphoria'25)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8860b,100:0a0e27&height=100&section=footer" width="100%"/>
-
-<div align="center">
 
 📫 Reach me at **vijaybhumireddy18@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/vijay-bhumireddy-71302131a) or [Instagram](https://instagram.com/vijay__l7)
 
