@@ -45,6 +45,12 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
+**AI / ML**
+
+<div align="center">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</div>
+
 **Databases**
 
 <div align="center">
@@ -60,6 +66,13 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,100:b8860b&height=3&section=header" width="100%"/>
+
+### 📄 Publications
+
+- 📝 **"ShieldAES: Strengthening AES Encryption Against Differential Power Analysis (DPA)"**
+  Presented at the *International Conference on Interdisciplinary Research in Science, Engineering, and Technology (ICIRSET-2025)*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,100:b8860b&height=3&section=header" width="100%"/>
 
