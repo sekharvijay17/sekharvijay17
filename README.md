@@ -101,7 +101,7 @@
 
 - ✅ **Machine Learning with Python** – SkillForge (Jun 2025)
 - ✅ **The Complete SQL Bootcamp: Go from Zero to Hero** – Udemy
-- ✅ **Python Bootcamp: From Zero to Hero** – Udemy
+- ✅ **Python Bootcamp: From Zero to Hero** – Udemy.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,100:b8860b&height=3&section=header" width="100%"/>
 
